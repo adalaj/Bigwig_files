@@ -1,4 +1,4 @@
-track type=bigWig name="Costantino L and Koshland D 2018 GSM3003472_h1D_h2D_Top1_AID_Aux_Rad52ChIP_seq_1.bw" description="Costantino L and Koshland D 2018 GSM3003472_h1D_h2D_Top1_AID_Aux_Rad52ChIP_seq_1" bigDataUrl=https://raw.githubusercontent.com/adalaj/Bigwig_files/main/Costantino L and Koshland D 2018 GSM3003472_h1D_h2D_Top1_AID_Aux_Rad52ChIP_seq_1.bw visibility=full color=0,0,255 altColor=255,0,0 priority=20
+track type=bigWig name="GSM3003472_h1D_h2D_Top1_AID_Aux_Rad52ChIP_seq_1.bw" description="GSM3003472_h1D_h2D_Top1_AID_Aux_Rad52ChIP_seq_1" bigDataUrl=https://raw.githubusercontent.com/adalaj/Bigwig_files/main/GSM3003472_h1D_h2D_Top1_AID_Aux_Rad52ChIP_seq_1.bw visibility=full color=0,0,255 altColor=255,0,0 priority=20
 26fc 8f88 0400 0300 5801 0000 0000 0000
 6c02 0000 0000 0000 0711 0000 0000 0000
 0000 0000 0000 0000 0000 0000 3001 0000
